@@ -4,11 +4,11 @@ import logging
 
 # ------------------- DATABASE CONFIGURATION ------------------- #
 DATABASE_CONFIG = {
-    'host': "135.181.44.193",
-    'database': "target_bot",
-    'user': "targetuser",
-    'password': "targetuser0099",
-    'port': "5432"
+    'host': "",
+    'database': "",
+    'user': "",
+    'password': "",
+    'port': ""
 }
 
 pool = None
